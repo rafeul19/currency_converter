@@ -1,0 +1,9 @@
+# Python gitignore for virtualenv
+venv/
+virtalpi/
+.env/
+.virtalpi/
+*.pyc
+__pycache__/
+*.swp
+.DS_Store
